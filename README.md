@@ -160,4 +160,3 @@ def preprocess_text(text: str) -> str:
 ```
 
 Implementing these steps will significantly enhance the search engine's ability to find relevant documents by dealing with variations in text and focusing on meaningful terms.
-```
